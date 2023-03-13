@@ -1,0 +1,10 @@
+h2 {
+  color: rgb(199, 84, 84);
+}
+p {
+  color: rgb(95, 183, 153);
+}
+hr {
+  border-style: dotted;
+  border-top: 50px;
+}
